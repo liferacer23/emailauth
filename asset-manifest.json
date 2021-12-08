@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emailauth/static/css/main.a617e044.chunk.css",
-    "main.js": "/emailauth/static/js/main.fd6e30a6.chunk.js",
-    "main.js.map": "/emailauth/static/js/main.fd6e30a6.chunk.js.map",
+    "main.js": "/emailauth/static/js/main.a1901abd.chunk.js",
+    "main.js.map": "/emailauth/static/js/main.a1901abd.chunk.js.map",
     "runtime-main.js": "/emailauth/static/js/runtime-main.4d910b66.js",
     "runtime-main.js.map": "/emailauth/static/js/runtime-main.4d910b66.js.map",
     "static/js/2.f8193cde.chunk.js": "/emailauth/static/js/2.f8193cde.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4d910b66.js",
     "static/js/2.f8193cde.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.fd6e30a6.chunk.js"
+    "static/js/main.a1901abd.chunk.js"
   ]
 }
